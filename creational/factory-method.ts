@@ -5,7 +5,7 @@ enum SneakersBrand {
 }
 
 class Sneakers {
-  brand: string;
+  brand: SneakersBrand;
   price: number;
   color: string;
 
